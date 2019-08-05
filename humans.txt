@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    chris dai@uom.gr
 
 # THANKS
 
