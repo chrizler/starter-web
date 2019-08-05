@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work;klmjmj
+This repository is for showing how Git and GitHub work;klmjmj I an chrf
 
 ## Purpose
 
